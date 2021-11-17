@@ -2,7 +2,14 @@
 <img width="527" alt="transformps" src="https://user-images.githubusercontent.com/75619142/142140458-e3bd043e-a8a0-438d-b779-a64cb8a24b27.png">
 
 
+#### Goal of the project:
 
+>**The primary goal of the project is to View the Most/best-selling car brands in KSA**
+
+#### Training workflow:
+* EDA
+   +   To find anomalies in the data (duplicates and outliers)
+   +   Answer the questions and solve the problem
 
 >**Question/need**
  
