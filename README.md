@@ -10,8 +10,11 @@
 * EDA
    +   To find anomalies in the data (duplicates and outliers)
    +   Answer the questions and solve the problem
-* Visulaize the outlier for car_driven and car_price (numrical values only)
-  +   
+* Visulaize the outlier for the Driven and Prices of Cars (numrical values only)
+  +   <img width="398" alt="prooutlier" src="https://user-images.githubusercontent.com/75619142/142170380-32d55c2a-a85a-4a4e-9bc9-131a1fb54fe9.png">
+
+* Now, Starting to apply solutions and answers
+
 >**Question/need**
  
  
