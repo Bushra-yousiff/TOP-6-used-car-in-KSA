@@ -16,17 +16,18 @@
 >**Question/need**
  
  
- What is the highest-selling car brands in ksa? 
+ What is the highest-selling car brands and what is the best-most used in ksa? 
 
 
-### Analysis of the highest brand for cars
+### Analysis and Comparison of the Highest brands vs Most used car in KSA
+
+![mostpricebrand](https://user-images.githubusercontent.com/75619142/142259570-dfe0a0fe-9179-445c-86cb-f173bd642d00.png)![mostksauc](https://user-images.githubusercontent.com/75619142/142259587-6614a0e9-a03a-4ba1-b661-8aa8fa9ceac2.png)
 
 
-![mostksauc](https://user-images.githubusercontent.com/75619142/142259587-6614a0e9-a03a-4ba1-b661-8aa8fa9ceac2.png)
 >**Question/need**
 
- What is the Top car brands used in ksa? 
+ In which years are the most selling cars in ksa , what is the brands? 
 
-### Visulaizing the Top 6 used car in KSA
+### 
 <img width="785" alt="top6u00" src="https://user-images.githubusercontent.com/75619142/142142993-b4232c54-5fad-4798-885d-ad70882f7e9d.png">
 
