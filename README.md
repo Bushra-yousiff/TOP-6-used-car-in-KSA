@@ -10,7 +10,8 @@
 * EDA
    +   To find anomalies in the data (duplicates and outliers)
    +   Answer the questions and solve the problem
-
+* Visulaize the outlier for car_driven and car_price (numrical values only)
+  +   
 >**Question/need**
  
  
