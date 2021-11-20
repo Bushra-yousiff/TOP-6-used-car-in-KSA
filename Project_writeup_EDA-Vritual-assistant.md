@@ -27,7 +27,9 @@ The dataset contains 2280 cars with 6 features for each, 3 of which are categori
 
 ## Communication
 In addition to the slides presented,these are plots and visualizations
+
 <img width="500" alt="Highestbrand01" src="https://user-images.githubusercontent.com/75619142/142728822-b59c8f75-c6e3-4524-8fc7-127a4c04a821.png">
+
 <img width="600" alt="bothinone" src="https://user-images.githubusercontent.com/75619142/142728985-f87796a6-a17f-4177-b323-30da5edae707.png">
 
 
